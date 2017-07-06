@@ -1,0 +1,947 @@
+[
+   {
+      "year1994": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1857670,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 23326
+            },
+            {
+               "crime_type": "Rape",
+               "total": 102216
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 618949
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 1113179
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 12131873,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2712774
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 7879812
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1539287
+               }
+            ]
+         }
+         
+      ]
+   }, 
+   {
+      "year1995": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1798792,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 21606
+            },
+            {
+               "crime_type": "Rape",
+               "total": 97470
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 580509
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 1099207
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 12063935,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2593784
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 7997710
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1472441
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year1996": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1688540,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 19645
+            },
+            {
+               "crime_type": "Rape",
+               "total": 96252
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 535594
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 1037049
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 11805323,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2506400
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 7904685
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1394238
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year1997": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1636096,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 18208
+            },
+            {
+               "crime_type": "Rape",
+               "total": 96153
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 498534
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 1023201
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 11558475,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2460526
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 7743760
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1354189
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year1998": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1533887,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 16974
+            },
+            {
+               "crime_type": "Rape",
+               "total": 93144
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 447186
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 976583
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 10951827,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2332735
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 7376311
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1242781
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year1999": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1426044,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 15522
+            },
+            {
+               "crime_type": "Rape",
+               "total": 89411
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 409371
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 911740
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 10208334,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2100739
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6955520
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1152075
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2000": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1425486,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 15586
+            },
+            {
+               "crime_type": "Rape",
+               "total": 90178
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 408016
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 911706
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 10182584,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2050992
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6971590
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1160002
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2001": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1439480,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 16037
+            },
+            {
+               "crime_type": "Rape",
+               "total": 90863
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 423557
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 909023
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 10437189,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2116531
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 7092267
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1228391
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2002": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1423677,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 16229
+            },
+            {
+               "crime_type": "Rape",
+               "total": 95235
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 420806
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 891407
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 10455277,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2151252
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 7057379
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1246646
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2003": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1383676,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 16528
+            },
+            {
+               "crime_type": "Rape",
+               "total": 93883
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 414235
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 859030
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 10442862,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2154834
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 7026802
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1261226
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2004": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1360088,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 16148
+            },
+            {
+               "crime_type": "Rape",
+               "total": 95089
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 401470
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 847381
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 10319386,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2144446
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6937089
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1237851
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2005": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1390745,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 16740
+            },
+            {
+               "crime_type": "Rape",
+               "total": 94347
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 417438
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 862220
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 10174754,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2155448
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6783447
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1235859
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2006": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1435123,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 17309
+            },
+            {
+               "crime_type": "Rape",
+               "total": 94472
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 449246
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 874096
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 10019601,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2194993
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6626363
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1198245
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2007": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1422970,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 17128
+            },
+            {
+               "crime_type": "Rape",
+               "total": 92160
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 447324
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 866358
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 9882212,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2190198
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6591542
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 1100472
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2008": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1394461,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 16465
+            },
+            {
+               "crime_type": "Rape",
+               "total": 90750
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 443563
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 843683
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 9774152,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2228887
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6586206
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 959059
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2009": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1325896,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 15399
+            },
+            {
+               "crime_type": "Rape",
+               "total": 89241
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 408742
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 812514
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 9337060,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2203313
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6338095
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 795652
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2010": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1251248,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 14722
+            },
+            {
+               "crime_type": "Rape",
+               "total": 85593
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 369089
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 781844
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 9112625,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2168459
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6204601
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 739565
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2011": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1206005,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 14661
+            },
+            {
+               "crime_type": "Rape",
+               "total": 84175
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 354746
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 752423
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 9052743,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2185140
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6151095
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 716508
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2012": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1217057,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 14856
+            },
+            {
+               "crime_type": "Rape",
+               "total": 85141
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 355051
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 762009
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 9001992,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 2109932
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6168874
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 723186
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "year2013": [
+         {
+         "crime_type": "Violent crime",
+         "total": 1163146,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 14196
+            },
+            {
+               "crime_type": "Rape",
+               "total": 79770
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 345031
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 724149
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 8632512,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 1928465
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 6004453
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 699594
+               }
+            ]
+         }
+         
+      ]
+   },
+   {
+      "sum": [
+         {
+         "crime_type": "Violent crime",
+         "total": 28780087,
+         "subtypes": [
+            {
+            "crime_type": "Murder and nonnegligent manslaughter",
+            "total": 337285
+            },
+            {
+               "crime_type": "Rape",
+               "total": 1835543
+            },
+            {
+               "crime_type": "Robbery",
+               "total": 8748457
+            },
+            {
+               "crime_type": "Aggravated assault",
+               "total": 17858802
+            }
+            ]
+         },      
+         {
+            "crime_type": "Property crime",
+            "total": 205544716,
+            "subtypes": [
+               {
+                  "crime_type": "Burglary",
+                  "total": 44689848
+               },
+               {
+                  "crime_type": "Larceny theft",
+                  "total": 138397601
+               },
+               {
+                  "crime_type": "Motor vehicle theft",
+                  "total": 22457267
+               }
+            ]
+         }
+         
+      ]
+   }
+]
